@@ -1,0 +1,23 @@
+{
+  "name": "code_school_bootstrap",
+  "authors": [
+    "Vittorio"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/bower_components",
+    "test",
+    "tests"
+  ]
+}
